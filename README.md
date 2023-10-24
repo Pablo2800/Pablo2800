@@ -47,7 +47,7 @@ Full Stack Web Developer
 </a>  
 </div>  
   
-
+</td></tr></table>  
 <br/>  
 
 
