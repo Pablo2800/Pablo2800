@@ -1,7 +1,7 @@
 
 
 ### Soy Pablo Palazzetti  
-Full Stack Web Developer  
+Soy un desarrollador full stack. Mi experiencia abarca la creación de aplicaciones atractivas y funcionales, trabajando en el frontend con HTML, CSS y JavaScript,React.js,Redux,Redux-toolkit, y manejando el backend con Node.js, Express y bases de datos como PostgreSQL
   
 
 <br/>  
